@@ -1,6 +1,6 @@
 import streamlit as st
-st.title('小倉先生へ♡')
-st.write('あなたに出会って10年…')
+st.title('小倉先生へ♡ooooooo')
+st.write('夢ならばどれほどよかったでしょう')
 text=st.text_input('あなたの名前を教えてください')
 st.write('あなたの名前は、'+text+'です')
 condition=st.slider('あなたの今の調子は？',0,100,50)
